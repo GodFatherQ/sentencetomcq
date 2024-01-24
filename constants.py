@@ -8,4 +8,4 @@ extract_directory = ""
 extracted_folder = bert_wsd_pytorch.replace(".zip","")
 
 # model_dir = "bert_base-augmented-batch_size=128-lr=2e-5-max_gloss=6"
-model_dir = 'spyzvarun/BERT_WSD'
+model_dir = 'BERT_WSD'
